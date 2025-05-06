@@ -1,7 +1,10 @@
+<div align="center">
+  <h1>Hi 👋</h1>
+</div>
+
 <div align="left"> 
   <div style="display: flex; align-items: center; gap: 30px;">
     <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="220"/>
-    <div>
     <div>
       <h2>About Me</h2>
       <p>
@@ -23,7 +26,6 @@
 </p>
 
 ### 📊 GitHub Stats  
-<!-- Обновите your-username на ваш реальный ник -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fgrgzz1&show_icons=true&theme=dark" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgrgzz1&layout=compact&theme=dark" width="400"/>
