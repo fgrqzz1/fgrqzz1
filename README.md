@@ -3,6 +3,16 @@
     <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
   </div>
   <div>
+    <h3>About me</h3>
+    <p>:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+  </div>
+  <div>
     <p>:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
   </div>
   <div>
