@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
+</div>
+
 # 💫 About Me:
 👨‍💻Hi, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: yaroslav.sokov2k6@gmail.com
 
@@ -7,7 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fgrqzz1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fgrqzz1)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fgrqzz1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroslav.sokov2k6@gmail.com)
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
