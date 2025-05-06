@@ -13,13 +13,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fgrqzz1)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,cs,docker,dotnet,py,mysql,postges,github)](https://skillicons.dev)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=go,py,cs,mysql,postgres,docker,github)](https://skillicons.dev) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fgrqzz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
