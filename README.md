@@ -1,11 +1,11 @@
-<div align="center">
-  <h1>Hi 👋</h1>
-</div>
-
-<div align="left"> 
-  <div style="display: flex; align-items: center; gap: 30px;">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="220"/>
-    <div>
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+  </div>
+  <div>
+    <p>:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
+  </div>
+  <div>
       <h2>About Me</h2>
       <p>
         🔭 I’m currently learning <strong>Golang, C#, SQL</strong><br>
@@ -14,8 +14,8 @@
         📫 How to reach me: <strong>yaroslav.sokov2k6@gmail.com</strong>
       </p>
     </div>
-  </div>
 </div>
+
 
 ### 🛠️ Tech Stack  
 <p>
