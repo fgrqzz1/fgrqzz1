@@ -1,12 +1,10 @@
 <div style="display: flex; align-items: flex-start; gap: 30px;">
-  <!-- Блок с картинкой -->
   <div style="flex-shrink: 0;">
     <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="200"/>
-    <p style="text-align: center; margin-top: 5px;">:man_technologist: Hi, I'm Yaroslav</p>
   </div>
-  
-  <!-- Блок с текстом -->
-  <div>
+
+  <div >
+    <p style="text-align: right; margin-top: 5px;">:man_technologist: Hi, I'm Yaroslav</p>
     <h2>About Me</h2>
     <p>
       🔭 I’m currently learning <strong>Golang, C#, SQL</strong><br>
