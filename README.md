@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/27/f3/dd/27f3dd4483f4dd5a04c1d5abeee25dee.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/27/f3/dd/27f3dd4483f4dd5a04c1d5abeee25dee.gif" width="1000"/>
 </div>
 
 # 💫 About Me:
