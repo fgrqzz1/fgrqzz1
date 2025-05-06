@@ -1,29 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
-  </div>
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="200" style="margin-top: 10px;"/>
+  
   <div>
-    <h3>About me</h3>
-    <p>:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
+    <p style="margin: 0; font-size: 1.1em;">:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
+    <h2 style="margin-top: 20px;">About Me</h2>
+    <p>
+      🔭 I’m currently learning <strong>Golang, C#, SQL</strong><br>
+      🌱 Interested in <strong>Databases, APIs</strong><br>
+      💬 Ask me about <strong>Backend development</strong><br>
+      📫 How to reach me: <strong>yaroslav.sokov2k6@gmail.com</strong>
+    </p>
   </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47q1livazrv2xifjzzi7h1m1k424gbpyw4fvjuowt4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
-  </div>
-  <div>
-    <p>:man_technologist: Hi, I'm Yaroslav. Beginner Backend-developer.</p>
-  </div>
-  <div>
-      <h2>About Me</h2>
-      <p>
-        🔭 I’m currently learning <strong>Golang, C#, SQL</strong><br>
-        🌱 Interested in <strong>Databases, APIs</strong><br>
-        💬 Ask me about <strong>Backend development</strong><br>
-        📫 How to reach me: <strong>yaroslav.sokov2k6@gmail.com</strong>
-      </p>
-    </div>
 </div>
 
 
@@ -36,10 +23,7 @@
 </p>
 
 ### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fgrgzz1&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgrgzz1&layout=compact&theme=dark" width="400"/>
-</p>
+
 
 ### 📫 Connect with Me  
 <p>
