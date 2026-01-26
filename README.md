@@ -9,8 +9,6 @@
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/fgrqzz1)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fgrqzz1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fgrqzz1)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fgrqzz1)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=go,py,cs,mysql,postgres,docker,github)](https://skillicons.dev) 
