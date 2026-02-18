@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👨‍💻Hi, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: yaroslav.sokov2k6@gmail.com
+👨‍💻Hi, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: grachev.yk@yandex.ru
 
 
 ## 🌐 Socials:
