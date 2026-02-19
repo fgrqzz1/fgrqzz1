@@ -3,12 +3,11 @@
 </div>
 
 # 💫 About Me:
-👨‍💻Hi, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: grachev.yk@yandex.ru
+👨‍💻Hello, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: grachev.yk@yandex.ru
 
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/fgrqzz1)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fgrqzz1)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=go,py,cs,mysql,postgres,docker,github)](https://skillicons.dev) 
