@@ -22,6 +22,6 @@
 ---
 ### 📫 Let's Connect
 * **Email:** [grachev.yk@yandex.ru](mailto:grachev.yk@yandex.ru)
-* **Telegram:** [@grachev_yk](t.me/grachev_yk)
+* **Telegram:** [@grachev_yk](https://t.me/grachev_yk)
 
 
