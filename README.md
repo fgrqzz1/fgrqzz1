@@ -3,11 +3,25 @@
 </div>
 
 # 💫 About Me:
-👨‍💻Hello, I'm Yaroslav. Beginner Backend-developer!<br><br>🔭 I’m currently learning: Golang, SQL, Docker<br>🌱 Interested in Databases, API<br>💬 Ask me about: Web Development, Telegram Bot Development, Backend Development<br>📫 How to reach me: grachev.yk@yandex.ru
+👋Hi, I'm Yaroslav | Backend Developer
+<br>I am a Backend Engineer focused on building scalable, high-performance systems with Golang. I enjoy solving algorithmic challenges and designing efficient database architectures.</br>
+
+---
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=go,py,mysql,postgres,docker,github)](https://skillicons.dev) 
+* **Languages:** `Golang`, `Python` (Algorithms & Scripting)
+* **Databases:** `SQL` (PostgreSQL, MySQL) 
+* **Tools & Tech:** `Docker`, `Git`, `REST API`, `gRPC`
+* **Expertise:** Backend Services, Console game, Chat and System Automation
+
+---
+### 🚀 Current Focus
+- 🔭 Deep diving into **Concurrency Patterns** and **Microservices Architecture** in Go.
+- 🧪 Actively solving problems on **LeetCode** to sharpen my algorithmic thinking.
+- 🤖 Designing robust APIs and integrating third-party services.
+---
+### 📫 Let's Connect
+* **Email:** [grachev.yk@yandex.ru](mailto:grachev.yk@yandex.ru)
+* **Telegram:** [@grachev_yk](t.me/grachev_yk)
 
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/fgrqzz1)
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,py,cs,mysql,postgres,docker,github)](https://skillicons.dev) 
