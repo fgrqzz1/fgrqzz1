@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 👋Hi, I'm Yaroslav | Backend Developer
-<br>I am a Backend Engineer focused on building scalable, high-performance systems with Golang. I enjoy solving algorithmic challenges and designing efficient database architectures.</br>
+<br>I am a Backend Engineer focused on building scalable, high-performance systems with Golang. I enjoy solving algorithmic challenges.</br>
 
 ---
 ### 🛠 Tech Stack
